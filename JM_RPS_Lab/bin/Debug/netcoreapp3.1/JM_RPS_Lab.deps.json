@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "JM_RPS_Lab/1.0.0": {
+        "runtime": {
+          "JM_RPS_Lab.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JM_RPS_Lab/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
